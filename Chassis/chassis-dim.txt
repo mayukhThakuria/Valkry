@@ -1,0 +1,3 @@
+the chassis is designed using 20x20 Aluminium extrusion due to its light weight and comparatively high strength and easy of working 
+
+The mean dimesions of the chassis are 505x300x165 mm^3
