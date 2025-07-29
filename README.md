@@ -16,7 +16,7 @@ This repository contains the CAD (SolidWorks) files for **Valkry**, a terrain-tr
 -  **Articulated suspension** for maximizing obstacle clearance and terrain adaptability  
 -   Designed using **commonly available materials** to ensure ease of manufacturing and cost-effectiveness  
 -  Includes **structural analysis** (stress/strain simulations) for select components  
--  **Dimensional constraints:** 1.5 × 0.7 × 1 m³ (L × W × H)
+-  **Dimensional constraints:** 1.5 × 0.75 × 1 m³ (L × W × H)
 
 ---
 
